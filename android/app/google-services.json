@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945933242150",
+    "project_id": "newsapp-e9741",
+    "storage_bucket": "newsapp-e9741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945933242150:android:38ec8366f4a05586d3fbe7",
+        "android_client_info": {
+          "package_name": "com.example.dainik_ujala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945933242150-3mcdhd7nbc884u4kcqjhs3569q9pdjos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAFsQVggAgp8ZadjWWWF_oFmN7rxpjaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945933242150-3mcdhd7nbc884u4kcqjhs3569q9pdjos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
